@@ -1,0 +1,51 @@
+/*--------------------------------------------Header*/
+
+
+.title {
+    font-size:60px;
+    text-decoration:none;
+    color:rgb(90, 90, 96)
+}
+
+.title a {
+    text-decoration:none;
+}
+
+
+#peak-mountain{
+    max-width: 100%;
+    height: auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top:20px;
+}
+
+
+
+.nav-links .btn {
+    margin: 5px;    
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+/*--------------------------------------------Section Hero*/
+
+#buxton{
+    height:600px;
+    width: 100%;
+    background: no-repeat center center;
+    background-attachment:scroll;
+    overflow:hidden;
+    position:relative;
+
+
+/*--------------------------------------------Footer*/
+
+.maps{
+    width:250px;
+    height:250;
+}
