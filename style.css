@@ -1,6 +1,30 @@
 /*--------------------------------------------Header*/
 
 
+#menu{
+    font-size: 100%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
+#logo, #menu{
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #777777;
+}
+
 .title {
     font-size:60px;
     text-decoration:none;
@@ -38,10 +62,11 @@
     height:600px;
     width: 100%;
     background: no-repeat center center;
-    background-attachment:scroll;
-    overflow:hidden;
-    position:relative;
-
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    color: rgba(0, 0, 0, 0.5);
+}
 
 /*--------------------------------------------Footer*/
 
