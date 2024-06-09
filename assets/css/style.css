@@ -177,7 +177,7 @@ section h2 {
     font-size: 30px;
 }
 
-/*--------------------------------------------Form.html*/
+/*--------------------------------------------form.html*/
 
 .wrapper {
     display: flex;
@@ -231,3 +231,5 @@ section h2 {
 #submitBtn:hover {
     background-color: #0056b3;
 }
+
+/*--------------------------------------------camping.html*/
