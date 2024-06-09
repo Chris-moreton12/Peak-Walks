@@ -179,19 +179,20 @@ section h2 {
 
 /*--------------------------------------------form.html*/
 
+
 .wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Ensure it takes at least the full viewport height */
-    background-color: rgba(255, 255, 255, 0.8); /* Optional: Set a background color */
+    min-height: 100vh;
+    background-color: rgba(255, 255, 255, 0.8);
     padding-bottom: 180px;
-    box-sizing: border-box; /* Ensure padding doesn't affect overall height */
+    box-sizing: border-box;
 }
 
 .form-container {
-    width: 100%; /* Full width of the parent container */
-    max-width: 400px; /* Limit the maximum width */
+    width: 100%;
+    max-width: 400px;
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
@@ -211,7 +212,7 @@ section h2 {
 }
 
 .form-group input {
-    width: 100%; /* Full width input */
+    width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -219,7 +220,7 @@ section h2 {
 }
 
 #submitBtn {
-    width: 100%; /* Full width button */
+    width: 100%;
     padding: 10px;
     border: none;
     background-color: #007bff;
@@ -233,3 +234,4 @@ section h2 {
 }
 
 /*--------------------------------------------camping.html*/
+
