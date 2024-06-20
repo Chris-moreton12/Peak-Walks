@@ -132,10 +132,17 @@ section h2 {
     align-items: center;
     font-size: 20px;
     border-radius: 15px;
+    flex-direction: column; /* Align items vertically */
 }
 
 .card-front {
     background-color: #bbb;
+}
+
+.front-one {
+    width: 95%;
+    height: auto;
+    border-radius: 50%;
 }
 
 .card-back {
@@ -147,14 +154,14 @@ section h2 {
 
 @media (max-width: 919px) {
     .content {
-        justify-content: center; /* Center the cards */
+        justify-content: center;
     }
     .card {
-        width: calc(200px * 0.67); /* Reduce the width by one-third */
-        height: calc(300px * 0.67); /* Reduce the height by one-third */
-        margin: 5px 2.5px; /* Smaller vertical gap and tighter horizontal gap */
-        flex: 1 1 calc(50% - 5px); /* Two cards per row with tighter gap */
-        max-width: calc(50% - 5px); /* Ensure two cards per row */
+        width: calc(200px * 0.67);
+        height: calc(300px * 0.67);
+        margin: 5px 2.5px;
+        flex: 1 1 calc(50% - 5px);
+        max-width: calc(50% - 5px); 
     }
 }
 
