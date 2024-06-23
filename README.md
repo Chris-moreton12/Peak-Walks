@@ -62,10 +62,10 @@
 ## Skeleton Plane
 
 ### Home Page Desktop Wireframe
-![Home Page Desktop Wireframe](assets/images/wireframes/home-page.png)
+![Home Page Desktop Wireframe](images/wireframes/home-page.png)
 
 ### Home Page mobile wireframe
-![Home page mobile responsive Wireframe](assets/images/wireframes/phone-view.png)
+![Home page mobile responsive Wireframe](images/wireframes/phone-view.png)
 
 > The deisgn I have implemented in the wire frame is in aim of making the website simple, responsive and uder friendly.
 > THe original idea I had for the project regarding the flip cards has continued to be implemented in the final design as I believe it adds to make a more user friendly experience. 
