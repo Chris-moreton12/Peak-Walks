@@ -1,39 +1,60 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# The Peak District
+## A website built for discovering walks and places to camp in The Peak District 
+### MS1 - Christopher Moreton
 
-Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
 
-## Codeanywhere Reminders
+## Table of contents
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+ 1. [ UX ](#ux)
+ 2. [ Features ](#features)  
+ 3. [ Features Left to Implement ](#left)  
+ 4. [ Technology used ](#tech) 
+ 5. [ Testing ](#testing)  
+ 6. [ Bugs ](#bugs)  
+ 7. [ Deployment](#deployment)
+ 8. [ Credits](#credits)
+ 9. [ Content](#content)  
+ 10. [ Acknowledgements](#acknowledgements)  
 
-`python3 -m http.server`
+ ## UX
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+ <a name="ux"></a>
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+ ### Pre-project Planning
+> Before starting this project, I had my mind set on the idea of creating a responsive website revolving aorund the idea of walking and camping as this is a large passion of mine. When making my decision for this project, I completed some research on the current user market for websites involving top pics for walks and came up with ideas to make the website more user friendly and interative.
 
-`http_server`
+# UX design
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Strategy Plane
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### To determine the best approach to this project I started with to determine the user and business needs.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## User Stories
 
-To log into the Heroku toolbelt CLI:
+### User
+> As a user I would like quick suggestions on walks in the Peak District with timings and difficulty  
+> As a user I would like to be able to sign up to regular updates on new walaks and camping locations 
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Scope Plane
+> The website should have a Navigation menu that is consistent across all pages and devices.  
+> The website should have a welcome message for the user explaining to them who we are and what we do.  
+> The website should display walks and camping locations so the user can make quick decisions iin their next walk choice.  
+> The website should allow the user ease of accsee and understanding.
+> The website should allow for a way to keep up to date with regular changes and updates.
+> The website should include a loation map so the user can visualise the location. 
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Structure Plane
+> To achieve the above goals, the created website should include a navigation bar, this will include 3 navigation links (home, camping and signup), the signup page will take you to a thankyou page. The webstie incliudes a header, section and footer in which the map and social media links are contained.
 
----
+**Home Page**
+> The home page includes a navigation bar with links to each page.
+> 4 flip cards with the weekly top pics for Peak District Walks.
+> Footer showcasing a map, signup link and social media links.
 
-Happy coding!
+**Camping**
+> The camping page includes a centre picture with 4 flip cards which showcase the bes locations to camp for th chosen walks on the home page.   
+
+**Sign-up**
+> The sign-up page cosists of a form to fill out which includes; first name, last name, email address and radio button for preference choice. This form will generate a thankyou message once submitted.
