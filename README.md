@@ -58,3 +58,15 @@
 
 **Sign-up**
 > The sign-up page cosists of a form to fill out which includes; first name, last name, email address and radio button for preference choice. This form will generate a thankyou message once submitted.
+
+## Skeleton Plane
+
+### Home Page Desktop Wireframe
+![Home Page Desktop Wireframe](assets/images/wireframes/home-page.png)
+
+### Home Page mobile wireframe
+![Home page mobile responsive Wireframe](assets/images/wireframes/phone-view.png)
+
+> The deisgn I have implemented in the wire frame is in aim of making the website simple, responsive and uder friendly.
+> THe original idea I had for the project regarding the flip cards has continued to be implemented in the final design as I believe it adds to make a more user friendly experience. 
+>  THere will be colours implemented in my final design. The title will be coloured and will chsnge colour to indicate the cursor, along with the navigation items. The flip cards will flip to show more infomrmation regaring the walk on the back. The camping page will showcase a similar design to the home page in the use of flip cards.
