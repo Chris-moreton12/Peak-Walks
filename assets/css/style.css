@@ -220,26 +220,28 @@ section h2 {
 
 /*--------------------------------------------form.html*/
 
+/* Styles for larger screens */
 .wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 180px;
+    padding-bottom: 10px;
     box-sizing: border-box;
 }
 
 .form-container {
     width: 100%;
-    max-width: 400px;
-    padding: 20px;
+    max-width: 400px; /* Adjust max-width as needed */
+    padding: 15px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
+    margin-bottom: 20px; /* Adjust margin as needed */
 }
 
 .form-group {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .form-group label {
@@ -249,27 +251,47 @@ section h2 {
     text-align: left;
 }
 
-.form-group input {
-    width: 100%;
-    padding: 10px;
+.form-group input[type="text"],
+.form-group input[type="email"] {
+    width: 100%; /* Full width for inputs */
+    padding: 8px;
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
+    margin-top: 5px; /* Add margin for spacing */
+}
+
+.radio-group {
+    display: flex;
+    justify-content: space-around; /* Adjust alignment as needed */
+    margin-top: 5px;
+}
+
+.radio-group label {
+    font-weight: normal;
 }
 
 #submitBtn {
-    width: 100%;
-    padding: 10px;
+    width: 100%; /* Full width for submit button */
+    padding: 8px;
     border: none;
     background-color: #007bff;
     color: #fff;
     border-radius: 5px;
     cursor: pointer;
     text-decoration: none;
+    margin-top: 10px; /* Add margin for spacing */
 }
 
 #submitBtn:hover {
     background-color: #0056b3;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+    .form-container {
+        max-width: 50%; /* Half the width of the screen */
+    }
 }
 
 /*--------------------------------------------camping.html*/
