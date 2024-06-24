@@ -162,12 +162,12 @@ section h2 {
 @media (max-width: 919px) {
     .content {
         justify-content: center;
-        padding: 30px; /* Remove padding to fit better */
+        padding: 30px;
     }
     .card {
         width: calc(200px * 0.67);
         height: calc(350px * 0.67);
-        margin: 2px; /* Reduce margin further to bring cards closer together */
+        margin: 2px;
         flex: 1 1 calc(50% - 4px);
         max-width: calc(50% - 4px); 
     }
@@ -177,8 +177,8 @@ section h2 {
     }
     .card-front,
     .card-back {
-        font-size: 16px; /* Adjust font size for smaller screens */
-        padding: 5px; /* Adjust padding to ensure content fits */
+        font-size: 16px;
+        padding: 5px;
     }
     .front-one {
         width: 90%;
@@ -244,7 +244,6 @@ section h2 {
 
 /*--------------------------------------------form.html*/
 
-/* Styles for larger screens */
 .wrapper {
     display: flex;
     justify-content: center;
@@ -255,13 +254,13 @@ section h2 {
 
 .form-container {
     width: 100%;
-    max-width: 400px; /* Adjust max-width as needed */
+    max-width: 400px;
     padding: 15px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    margin-bottom: 20px; /* Adjust margin as needed */
+    margin-bottom: 20px;
 }
 
 .form-group {
@@ -277,17 +276,17 @@ section h2 {
 
 .form-group input[type="text"],
 .form-group input[type="email"] {
-    width: 100%; /* Full width for inputs */
+    width: 100%;
     padding: 8px;
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
-    margin-top: 5px; /* Add margin for spacing */
+    margin-top: 5px;
 }
 
 .radio-group {
     display: flex;
-    justify-content: space-around; /* Adjust alignment as needed */
+    justify-content: space-around;
     margin-top: 5px;
 }
 
@@ -296,7 +295,7 @@ section h2 {
 }
 
 #submitBtn {
-    width: 100%; /* Full width for submit button */
+    width: 100%;
     padding: 8px;
     border: none;
     background-color: #007bff;
@@ -304,17 +303,16 @@ section h2 {
     border-radius: 5px;
     cursor: pointer;
     text-decoration: none;
-    margin-top: 10px; /* Add margin for spacing */
+    margin-top: 10px;
 }
 
 #submitBtn:hover {
     background-color: #0056b3;
 }
 
-/* Media query for smaller screens */
 @media (max-width: 600px) {
     .form-container {
-        max-width: 50%; /* Half the width of the screen */
+        max-width: 50%;
     }
 }
 
