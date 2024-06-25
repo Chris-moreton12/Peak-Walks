@@ -159,7 +159,7 @@ section h2 {
 }
 
 
-@media (max-width: 919px) {
+@media (max-width: 414px) {
     .content {
         justify-content: center;
         padding: 30px;
@@ -169,7 +169,7 @@ section h2 {
         height: calc(350px * 0.67);
         margin: 2px;
         flex: 1 1 calc(50% - 4px);
-        max-width: calc(50% - 4px); 
+        max-width: calc(50% - 4px);
     }
     .card-inner {
         width: 100%;
@@ -186,6 +186,47 @@ section h2 {
         border-radius: 10px;
     }
 }
+
+@media (max-width: 376px) {
+    .content {
+        justify-content: center;
+        padding: 30px;
+
+    }
+    h3{
+        font-size: 20px;
+    }
+    .card {
+        width: calc(150px * 0.67);
+        height: calc(300px * 0.67);
+        margin: 2px;
+        flex: 1 1 calc(50% - 4px);
+        max-width: calc(50% - 4px); 
+        margin-top: -40px;
+        margin-bottom: 45px;
+    }
+    .trump-stats{
+        font-size: 13px;
+    }
+    h2{
+        margin-top:-15px ;
+    }
+    .card-inner {
+        width: 100%;
+        height: 100%;
+    }
+    .card-front,
+    .card-back {
+        font-size: 16px;
+        padding: 5px;
+    }
+    .front-one {
+        width: 90%;
+        height: auto;
+        border-radius: 10px;
+    }
+}
+
 
 
 /*--------------------------------------------Footer*/
@@ -309,11 +350,25 @@ section h2 {
     background-color: #0056b3;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 414px) {
     .form-container {
         max-width: 50%;
     }
 }
+
+@media (max-width: 376px) {
+    .form-container {
+        max-width: 50%;
+    }
+    
+    .form-row .question,
+    .form-row .radio-group {
+        display: none;
+    }
+}
+
+
+
 
 /*--------------------------------------------camping.html*/
 
@@ -408,9 +463,10 @@ section h2 {
         display: none;
     }
     .flip-box {
-        width: calc(25% - 10px);
-        height: calc(25% - 10px);
-        margin: 10px;
+        width:130px;
+        height:180px;
+        margin-left: 50px;
+        margin-right: 50px;
     }
 }
 
