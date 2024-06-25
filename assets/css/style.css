@@ -188,7 +188,6 @@ section h2 {
 }
 
 
-
 /*--------------------------------------------Footer*/
 
 .footer {
@@ -404,6 +403,16 @@ section h2 {
     transform: translate(100%, -50%);
 }
 
+@media (max-width: 767px) {
+    .img-fluid {
+        display: none;
+    }
+    .flip-box {
+        width: calc(25% - 10px);
+        height: calc(25% - 10px);
+        margin: 10px;
+    }
+}
 
 
 
