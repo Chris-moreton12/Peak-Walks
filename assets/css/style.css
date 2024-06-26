@@ -98,7 +98,7 @@ section h2 {
 
 .card {
     background-color: transparent;
-    width: 200px;
+    width: 20%;
     height: 300px;
     perspective: 1000px;
     border: none;
@@ -369,7 +369,6 @@ section h2 {
 
 
 /*--------------------------------------------camping.html*/
-
 .center-content {
     position: absolute;
     top: 30%;
@@ -414,20 +413,27 @@ section h2 {
     height: 100%;
     backface-visibility: hidden;
     display: flex;
+    flex-direction: column; /* Arrange items vertically */
     justify-content: center;
     align-items: center;
-    font-size: 20px;
+    font-size: 15px;
     border-radius: 15px;
     padding: 20px;
+    box-sizing: border-box;
 }
 
 .flip-box-front {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color:#d1c43b;
     border: 1px solid #ccc;
+    font-size: 10px;
+}
+
+.flip-box-front h3{
+    font-size: 15px;
 }
 
 .flip-box-back {
-    background-color: #2980b9;
+    background-color:#ff5b02;
     color: white;
     transform: rotateY(180deg);
 }
@@ -467,8 +473,6 @@ section h2 {
         margin-right: 50px;
     }
 }
-
-
 
 
 
