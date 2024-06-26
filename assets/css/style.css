@@ -181,9 +181,7 @@ section h2 {
         padding: 5px;
     }
     .front-one {
-        width: 90%;
-        height: auto;
-        border-radius: 10px;
+        display:none;
     }
 }
 
@@ -221,9 +219,7 @@ section h2 {
         padding: 5px;
     }
     .front-one {
-        width: 90%;
-        height: auto;
-        border-radius: 10px;
+        display:none
     }
 }
 
