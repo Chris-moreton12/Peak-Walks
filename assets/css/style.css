@@ -350,6 +350,11 @@ section h2 {
     background-color: #0056b3;
 }
 
+.newsletter{
+    text-align: center;
+    font-size: 16px;
+}
+
 @media (max-width: 414px) {
     .form-container {
         max-width: 50%;
