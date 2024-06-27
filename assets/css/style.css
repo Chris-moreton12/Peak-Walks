@@ -1,6 +1,7 @@
 body {
     font-family: "Montserrat", sans-serif;
     overflow-y: auto;
+    display:flex;
 }
 
 
@@ -283,6 +284,7 @@ section h2 {
 /*--------------------------------------------form.html*/
 
 .wrapper {
+    flex:1;
     display: flex;
     justify-content: center;
     align-items: center;
