@@ -232,20 +232,20 @@ These colors allow each part of my page to stand out and allow the user to visua
 ## HTML Validation
 
 ### index.html
-![W3 index.html Check](assets/images/testing-scans/)
+![W3 index.html Check](assets/images/testing-scans/index-w3-check.png)
 #### Result: No Errors
 
 ### camping.html
-![W3 camping.html Check](assets/images/testing-scans/)
+![W3 camping.html Check](assets/images/testing-scans/camping-w3-check.png)
 #### Result: No Errors
 
 ### form.html
-![W3 form.html Check](assets/images/testing-scans/)
-#### Result: No Errors
+![W3 form.html Check](assets/images/testing-scans/form-w3-check.png)
+#### Result: No Errors, 1 warning about the section not having a heading.
 
 ### form-thankyou.html
-![W3 form-thankyou-.html Check](assets/images/testing-scans/)
-#### Result: No Errors
+![W3 form-thankyou-.html Check](assets/images/testing-scans/form-thankyou-w3-check.png)
+#### Result: No Errors, 1 warning about the section not having a heading.
 
 
 
