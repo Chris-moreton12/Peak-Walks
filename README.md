@@ -324,6 +324,22 @@ These colors allow each part of my page to stand out and allow the user to visua
 
 > Camping centre picture: https://www.pexels.com/photo burning-woods-on-fire-during-nighttime-12243893/
 
+<a name="content"></a>
+
+## Content & Resources
+
+### MyMaps 
+> Used to embed googlemap Iframe(https://www.google.com/maps/about/mymaps/)
+
+### Pexels.com
+> Images used in this project.
+
+### Pixabay.com
+> Images used in this project.
+
+### w3 schools
+> Used for general lookup for HTML and CSS synthax queries and validation
+
 
 
 
