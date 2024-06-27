@@ -232,19 +232,19 @@ These colors allow each part of my page to stand out and allow the user to visua
 ## HTML Validation
 
 ### index.html
-![W3 index.html Check](assets/images/testing-scans/)
+![W3 index.html Check](assets/images/testing-scans/lighthouse-walks.png)
 #### Result: No Errors
 
 ### camping.html
-![W3 camping.html Check](assets/images/testing-scans/)
+![W3 camping.html Check](assets/images/testing-scans/lighthouse-camping.png)
 #### Result: No Errors
 
 ### form.html
-![W3 form.html Check](assets/images/testing-scans/)
+![W3 form.html Check](assets/images/testing-scans/lighthouse-form.png)
 #### Result: No Errors
 
 ### form-thankyou.html
-![W3 form-thankyou-.html Check](assets/images/testing-scans/)
+![W3 form-thankyou-.html Check](assets/images/testing-scans/lighthouse-form-thankyou.png)
 #### Result: No Errors
 
 
