@@ -85,7 +85,7 @@
 ## Surface Plane
 
 ### Color
-> I decided for this project that to make it stand out and to give the users an enjoyalbe expeirence, that color was required. I used a variety of colours and hover colors on this project in aim of letting the page pop.
+> I decided for this project that to make it stand out and to give the users an enjoyable expeirence, that color was required. I used a variety of colours and hover colors on this project in aim of letting the page pop.
 
 > The decision on colors that I made was to incorporate. 
 
@@ -95,9 +95,9 @@
  - #d1c43b-yellow
  - #333-black
  - ##007bff-blue
-These colors allow each part of my page to stand out and allow the user to visualise a diffetnet color when hovring over a clickable item.
+>These colors allow each part of my page to stand out and allow the user to visualise a different color when hovring over a clickable item.
 >The images within this project allow for a variety of diffetent colors which alows them to stand out from the page.
->During the building of this project, I initially set the opacitiy of the background color too dak which did not allow for much color to be seen. This was edited to allow more color to come through.
+>During the building of this project, I initially set the opacitiy of the background color too dark which did not allow for much color to be seen. This was edited to allow more color to come through.
 
 ### Typography - 
 
