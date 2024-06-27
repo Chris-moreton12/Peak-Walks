@@ -217,17 +217,17 @@ These colors allow each part of my page to stand out and allow the user to visua
 
 ### index.html
 
-![Google Lighthouse index.html](assets/images/testing-scans/)
+![Google Lighthouse index.html](assets/images/testing-scans/lighthouse-walks.png)
 
 ### camping.html
 
-![Google Lighthouse camping.html](assets/images/testing-scans/)
+![Google Lighthouse camping.html](assets/images/testing-scans/lighthouse-camping)
 
 ### form.html
-![Google Lighthouse form.html](assets/images/testing-scans/)
+![Google Lighthouse form.html](assets/images/testing-scans/lighthouse-form)
 
 ### form-thankyou.html
-![Google Lighthouse form-thankyou.html](assets/images/testing-scans/)
+![Google Lighthouse form-thankyou.html](assets/images/testing-scans/lighthouse-form-thankyou)
 
 ## HTML Validation
 
