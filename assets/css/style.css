@@ -231,7 +231,7 @@ section h2 {
 /*--------------------------------------------Footer*/
 
 .footer {
-    min-height: 125px; /* Use min-height instead of fixed height */
+    min-height: 125px;
     background-color: rgba(240, 240, 240, 0.8);
     display: flex;
     align-items: center;
@@ -250,7 +250,7 @@ section h2 {
 .footer-left iframe {
     width: 100%;
     height: 120px;
-    border: none; /* Ensure no border on iframe */
+    border: none;
 }
 
 .signup-link,
@@ -280,9 +280,8 @@ section h2 {
 
 @media (max-width: 768px) {
     .footer {
-        flex-direction: column; /* Stack items vertically on smaller screens */
-        text-align: center; /* Center items vertically */
-        min-height: auto; /* Allow footer to expand based on content */
+        text-align: center;
+        min-height: auto;
     }
 }
 /*--------------------------------------------form.html*/
