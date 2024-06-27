@@ -94,7 +94,7 @@ These colors allow each part of my page to stand out and allow the user to visua
 
  - Montserrat
  - Back-up - sans-serif
-> The idea behind this choice was to allow for a hint of modernism but aloso allow for uder readability.
+> The idea behind this choice was to allow for a hint of modernism but also allow for user readability.
 > The back-up font allows for sans-serif to be used if montserrat is not available on particular browsers.
 
 ## Features
@@ -104,7 +104,7 @@ These colors allow each part of my page to stand out and allow the user to visua
 
 #### Navigation Bar
 ![Navigation Bar](images/header.png)
-![Navigation Bar Mobile View] (images/mobile-header.png)
+![Navigation Bar](images/mobile-header.png)
 
 > Navigation Bar developed using Flex and bootstrap container, navigation bar contains three links to the right of the title, the title and the walk navigation element both link back to the index.html home page.
 
