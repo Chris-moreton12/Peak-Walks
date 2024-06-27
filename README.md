@@ -3,7 +3,13 @@
 ### MS1 - Christopher Moreton
 
 
+## **[Live site](https://chris-moreton12.github.io/Peak-Walks/index.html)**
 
+------------------------------------------------------------------
+
+## **[Repository](https://github.com/Chris-moreton12/Peak-Walks.git)**
+
+------------------------------------------------------------------
 
 ## Table of contents
 
@@ -36,6 +42,11 @@
 ### User
 > As a user I would like quick suggestions on walks in the Peak District with timings and difficulty  
 > As a user I would like to be able to sign up to regular updates on new walaks and camping locations 
+> As a user I would like to be able to fins the best possible destinatios and walks without having to search the internet for hours.
+
+### Webite Owner
+> As a website owner, I would like my viewers to be able to use my site to find the best walks and camping suggestions to aid them in their choice.
+> As a website owner, I would like my users to be able to use my websit with ease and understand each section of content.
 
 ## Scope Plane
 > The website should have a Navigation menu that is consistent across all pages and devices.  
@@ -108,8 +119,8 @@ These colors allow each part of my page to stand out and allow the user to visua
 
 > Navigation Bar developed using Flex and bootstrap container, navigation bar contains three links to the right of the title, the title and the walk navigation element both link back to the index.html home page. The first image is the standard desktop navigation bar. THe second image is the navigation bar viewed on a mobile device.
 
-#### Hero Section
-![Hero Section](assets/images/features/hero-section.png)
+#### Background Section
+![Background Section](assets/images/features/background-section.png)
 
 > Image section with 3 flip cards, the front of the flip cards showcase locations in the Peak District with ratings similar to that of trump cards. The back of the flip cards show an active google maps review of the location using i-frame.
 
@@ -133,10 +144,23 @@ These colors allow each part of my page to stand out and allow the user to visua
 > The form page is created to allow users to sign-up to the weekly newsletter and updates on the webstie for new suggested walks and camping locations. The submission of the form brings up a thankyou message as I have not created any backend for this form. Thae thankyou is to allow users to know that the form has been submitted. In the future I would like to add back end to this form with the option to also contact the site.
 >Initially, this form did not have a radio button selection to allow users to select wha tthye are most using this weksite for, this was updated to allow for a selection button to be clicked before submission of the form.
 >The sign-up form is minimilistic in its colors but does have a blue submit button whic his used to stand out to the users.
+
 #### Form Thankyou
-![Form Thankyou Section](assets/images/features/formthankyou.png)
+![Form Thankyou Section](assets/images/features/form-thankyou.png)
 
 > This is the thankyou notice to the users that sign-up.
+
+<a name="left"></a>
+# Features Left to implement
+
+### Walks page
+> In the future I would like to add aditional content to the walks page and include a larger variety of walks.
+
+### Camping page
+> In the future I would like to a add a larger variety of camp sites and have direct links to each of their booking pages.
+
+### Form page
+> In the future I would like to add a way of contacting the site to ask for more information
 
 ### Additional Page ideas
 >I would like to add a page specifically designated to users photos of their experiencs in the Peak District and their ratings of each location.
@@ -163,7 +187,7 @@ These colors allow each part of my page to stand out and allow the user to visua
 ### Pexels.com
 > Used for royalty free images for my webpage.
 
-### Bootsrtap
+### Bootstrap
 > Used for styling some of my webpage (header and ooter)
 
 ### JavaScript
@@ -180,7 +204,7 @@ These colors allow each part of my page to stand out and allow the user to visua
 
 <a name="testing"></a>
 # Testing
-> Testing on this site was primarily complted by myself. A couple of friends and a family member chekced over the site to find any problems.
+> Testing on this site was primarily complted by myself. A couple of friends and a family members checked over the site to find any problems.
 
 ### Testing Phase
 
@@ -212,6 +236,12 @@ These colors allow each part of my page to stand out and allow the user to visua
 |Please navigate to the twitter link|100%  |
 |Please navigate to the camping page and inform me of the rating for Mam Tor| 100%|
 |Please fill in the sign-up form and submit the form| 100%  |
+
+> 3 users were asked to view the website on their mobile devices and/or tablets to provide any feedback on errors or page issues.
+
+| Test | Result |
+|--|--|
+|Issues Reported| None|
 
 ## Google Lighthouse Testing
 
