@@ -294,6 +294,8 @@ These colors allow each part of my page to stand out and allow the user to visua
 
 > Issue with whole header linking to walks page when clicked rather than just title (fixed, set the title in its own div) **fixed**
 
+> Issue with toggle button not working when on the form page (fixed, the html was not present on the form page) **fixed**
+
 <a name="deployment"></a>
 ## Deployment
 
@@ -339,6 +341,16 @@ These colors allow each part of my page to stand out and allow the user to visua
 
 ### w3 schools
 > Used for general lookup for HTML and CSS synthax queries and validation
+
+<a name="acknowlegements"></a>
+
+## Acknowledgements
+
+### Alan Bushell
+> My mentor who helped me with constructive feedback and ensured my project submission time was met with help on some bugs and functionality.
+
+### Onyekachi Akujua
+> My Tutor who supported me to reach on time submission.
 
 
 
