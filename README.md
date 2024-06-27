@@ -117,12 +117,12 @@ These colors allow each part of my page to stand out and allow the user to visua
 ![Navigation Bar](assets/images/features/header.png)
 ![Navigation Bar](assets/images/features/mobile-header.png)
 
-> Navigation Bar developed using Flex and bootstrap container, navigation bar contains three links to the right of the title, the title and the walk navigation element both link back to the index.html home page. The first image is the standard desktop navigation bar. THe second image is the navigation bar viewed on a mobile device.
+> Navigation Bar developed using Flex and bootstrap container, navigation bar contains three links to the right of the title, the title and the walk navigation element both link back to the index.html home page. The first image is the standard desktop navigation bar. The second image is the navigation bar viewed on a mobile device.
 
 #### Background Section
 ![Background Section](assets/images/features/background-section.png)
 
-> Image section with 3 flip cards, the front of the flip cards showcase locations in the Peak District with ratings similar to that of trump cards. The back of the flip cards show an active google maps review of the location using i-frame.
+> Image section with 3 flip cards, the front of the flip cards showcase locations in the Peak District with ratings similar to that of trump cards. The back of the flip cards show an active google maps view of the location using i-frame.
 
 #### Footer
 ![Footer](assets/images/features/footer.png)
@@ -134,16 +134,16 @@ These colors allow each part of my page to stand out and allow the user to visua
 #### Camping
 ![Camping Section](assets/images/features/stanton-moor.png)
 
-> The camping section is a showcase of four different campsites that are suitable to camp in for the wlks on the index.html walk page. This allows the users to be able to find suitable camping locations if they embark on one of the suggested walks.
+> The camping section is a showcase of four different campsites that are suitable to camp in for the walks on the index.html walk page. This allows the users to be able to find suitable camping locations if they embark on one of the suggested walks.
 
 ### form.html
 
 #### Form
 ![Form Section](assets/images/features/form.png)
 
-> The form page is created to allow users to sign-up to the weekly newsletter and updates on the webstie for new suggested walks and camping locations. The submission of the form brings up a thankyou message as I have not created any backend for this form. Thae thankyou is to allow users to know that the form has been submitted. In the future I would like to add back end to this form with the option to also contact the site.
->Initially, this form did not have a radio button selection to allow users to select wha tthye are most using this weksite for, this was updated to allow for a selection button to be clicked before submission of the form.
->The sign-up form is minimilistic in its colors but does have a blue submit button whic his used to stand out to the users.
+> The form page is created to allow users to sign-up to the weekly newsletter and updates on the webstie for new suggested walks and camping locations. The submission of the form brings up a thankyou message as I have not created any backend for this form. The thankyou is to allow users to know that the form has been submitted. In the future I would like to add back end to this form with the option to also contact the site.
+>Initially, this form did not have a radio button selection to allow users to select what they are most using this weksite for, this was updated to allow for a selection button to be clicked before submission of the form.
+>The sign-up form is minimilistic in its colors but does have a blue submit button which is used to make it stand out to the users.
 
 #### Form Thankyou
 ![Form Thankyou Section](assets/images/features/form-thankyou.png)
@@ -170,7 +170,7 @@ These colors allow each part of my page to stand out and allow the user to visua
 # Technology Used
 
 ### Html
-> Used to structure my webpages and the bones of any web project
+> Used to structure my webpage.
 
 ### CSS
 > Used to style and add layout to my project.
@@ -188,7 +188,7 @@ These colors allow each part of my page to stand out and allow the user to visua
 > Used for royalty free images for my webpage.
 
 ### Bootstrap
-> Used for styling some of my webpage (header and ooter)
+> Used for styling some of my webpage (header and footer)
 
 ### JavaScript
 > Used for styling the flip cards on the walks and camping page.
@@ -200,11 +200,11 @@ These colors allow each part of my page to stand out and allow the user to visua
 > Used for obtaining code for JavaScript flip cards. Used for checking the vlidation of HTML and CSS.
 
 ### Lighthouse
-> Used to check the perforance, accessibliy and best practices of my site.
+> Used to check the performance, accessibliy and best practices of my site.
 
 <a name="testing"></a>
 # Testing
-> Testing on this site was primarily complted by myself. A couple of friends and a family members checked over the site to find any problems.
+> Testing on this site was primarily completed by myself. A couple of friends and a family members checked over the site to find any problems.
 
 ### Testing Phase
 
