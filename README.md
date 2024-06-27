@@ -106,14 +106,74 @@ These colors allow each part of my page to stand out and allow the user to visua
 ![Navigation Bar](images/header.png)
 ![Navigation Bar](images/mobile-header.png)
 
-> Navigation Bar developed using Flex and bootstrap container, navigation bar contains three links to the right of the title, the title and the walk navigation element both link back to the index.html home page.
+> Navigation Bar developed using Flex and bootstrap container, navigation bar contains three links to the right of the title, the title and the walk navigation element both link back to the index.html home page. The first image is the standard desktop navigation bar. THe second image is the navigation bar viewed on a mobile device.
 
 #### Hero Section
 ![Hero Section](images/hero-section.png)
 
-> Image section with 3 flip cards, the front of the flip cards showcase locations in the Peak District with ratings similar to that of trump cards. the back of the flip cards show an active google maps review of the location.
+> Image section with 3 flip cards, the front of the flip cards showcase locations in the Peak District with ratings similar to that of trump cards. The back of the flip cards show an active google maps review of the location using i-frame.
 
 #### Footer
 ![Footer](images/footer.png)
 
-> Bootstrap and custom style footer used to showcase a map location of the Peak District to the left side. The middle of the footer allows for the user to be taken to the sign-up page. The right side of the footer showcases media icons. I decided that a map to show the whole outline of the Peak District would allow new users to gain an understanding of the size and potential the Peak District has.
+> Bootstrap and custom style footer used to showcase a map location of the Peak District with the use of i-frame to the left side. The middle of the footer allows for the user to be taken to the sign-up page. The right side of the footer showcases media icons. I decided that a map to show the whole outline of the Peak District would allow new users to gain an understanding of the size and potential the Peak District has.
+
+### camping.html
+
+#### Camping
+![Camping Section](images/stanton-moor.png)
+
+> The camping section is a showcase of four different campsites that are suitable to camp in for the wlks on the index.html walk page. This allows the users to be able to find suitable camping locations if they embark on one of the suggested walks.
+
+### form.html
+
+#### Form
+![Form Section](images/form.png)
+
+> The form page is created to allow users to sign-up to the weekly newsletter and updates on the webstie for new suggested walks and camping locations. The submission of the form brings up a thankyou message as I have not created any backend for this form. Thae thankyou is to allow users to know that the form has been submitted. In the future I would like to add back end to this form with the option to also contact the site.
+>Initially, this form did not have a radio button selection to allow users to select wha tthye are most using this weksite for, this was updated to allow for a selection button to be clicked before submission of the form.
+>The sign-up form is minimilistic in its colors but does have a blue submit button whic his used to stand out to the users.
+#### Form Thankyou
+![Form Thankyou Section](images/formthankyou.png)
+
+> This is the thankyou notice to the users that sign-up.
+
+### Additional Page ideas
+>I would like to add a page specifically designated to users photos of their experiencs in the Peak District and their ratings of each location.
+
+<a name="tech"></a>
+
+# Technology Used
+
+### Html
+> Used to structure my webpages and the bones of any web project
+
+### CSS
+> Used to style and add layout to my project.
+
+### Font Awesome
+> Used for all the icons in this project
+
+### GoogleFonts
+> Used for the fonts in this project and comparison potential fonts.
+
+### Online-Convert.com
+> Used to convert files from png to webp to reduce size and improve web loading speed.
+
+### Pexels.com
+> Used for royalty free images for my webpage.
+
+### Bootsrtap
+> Used for styling some of my webpage (header and ooter)
+
+### JavaScript
+> Used for styling the flip cards on the walks and camping page.
+
+### My Maps
+> Used for the i-frames to import google maps onto my site.
+
+### W3 Schools
+> Used for obtaining code for JavaScript flip cards. Used for checking the vlidation of HTML and CSS.
+
+### Lighthouse
+> Used to check the perforance, accessibliy and best practices of my site.
