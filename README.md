@@ -177,3 +177,41 @@ These colors allow each part of my page to stand out and allow the user to visua
 
 ### Lighthouse
 > Used to check the perforance, accessibliy and best practices of my site.
+
+<a name="testing"></a>
+# Testing
+> Testing on this project was mainly done manually by myself and a few friends to determine site usability, responsiveness and ensure it is intuitive to a completely new user.
+
+### Testing Phase
+
+**Testing for links and Form**
+| Test |Outcome  |
+|--|--|
+|All links on Navigation lead to their correct pages| Pass  |
+|Contact us button leads to contact form on contact us page| Pass
+|Footer social links all lead to their respective social media sites |Pass|
+|Contact form submits when all criteria is filled correctly| Pass  |
+|User prevented from submitting form without correct elements| Pass|
+|Form Validation presents when incorrect input type is entered |Pass|
+
+**Testing for responsiveness**
+| Test |Outcome  |
+|--|--|
+|Home page, about, portfolio, contact us displays correctly on screens larger than 950px|Pass |
+|Home page, about, portfolio, contact us displays correctly on screens smaller than 950px |Pass  
+
+### User testing
+
+**User testing Challenge**
+
+> 3 users are given basic tasks whilst visiting the web page to test for ease of use.
+
+| Test | Result |
+|--|--|
+|When entering the site, navigate to the sign up page.| 100%|
+|Please navigate to the twitter link|100%  |
+|Please navigate to the camping page and inform me of the rating for Mam Tor| 100%|
+|Please fill in the sign-up form and submit the form| 100%  |
+
+
+
