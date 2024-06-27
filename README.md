@@ -67,6 +67,53 @@
 ### Home Page mobile wireframe
 ![Home page mobile responsive Wireframe](images/wireframes/phone-view.png)
 
-> The deisgn I have implemented in the wire frame is in aim of making the website simple, responsive and uder friendly.
-> THe original idea I had for the project regarding the flip cards has continued to be implemented in the final design as I believe it adds to make a more user friendly experience. 
+> The deisgn I have implemented in the wire frame is in aim of making the website simple, responsive and user friendly.
+> The original idea I had for the project regarding the flip cards has continued to be implemented in the final design as I believe it adds to make a more user friendly experience. 
 >  THere will be colours implemented in my final design. The title will be coloured and will chsnge colour to indicate the cursor, along with the navigation items. The flip cards will flip to show more infomrmation regaring the walk on the back. The camping page will showcase a similar design to the home page in the use of flip cards.
+
+## Surface Plane
+
+### Color
+> I decided for this project that to make it stand out and to give the users an enjoyalbe expeirence, that color was required. I used a variety of colours and hover colors on this project in aim of letting the page pop.
+
+> The decision on colors that I made was to incorporate. 
+
+ - #f80404-red
+ - #ff5b02-orange
+ - #deb887-burlywood
+ - #d1c43b-yellow
+ - #333-black
+ - ##007bff-blue
+These colors allow each part of my page to stand out and allow the user to visualise a diffetnet color when hovring over a clickable item.
+>The images within this project allow for a variety of diffetent colors which alows them to stand out from the page.
+>During the building of this project, I initially set the opacitiy of the background color too dak which did not allow for much color to be seen. This was edited to allow more color to come through.
+
+### Typography - 
+
+>The font's chosen for this project were:
+
+ - Montserrat
+ - Back-up - sans-serif
+> The idea behind this choice was to allow for a hint of modernism but aloso allow for uder readability.
+> The back-up font allows for sans-serif to be used if montserrat is not available on particular browsers.
+
+## Features
+
+<a name="features"></a>
+### index.html
+
+#### Navigation Bar
+![Navigation Bar](images/header.png)
+![Navigation Bar Mobile View] (images/mobile-header.png)
+
+> Navigation Bar developed using Flex and bootstrap container, navigation bar contains three links to the right of the title, the title and the walk navigation element both link back to the index.html home page.
+
+#### Hero Section
+![Hero Section](images/hero-section.png)
+
+> Image section with 3 flip cards, the front of the flip cards showcase locations in the Peak District with ratings similar to that of trump cards. the back of the flip cards show an active google maps review of the location.
+
+#### Footer
+![Footer](images/footer.png)
+
+> Bootstrap and custom style footer used to showcase a map location of the Peak District to the left side. The middle of the footer allows for the user to be taken to the sign-up page. The right side of the footer showcases media icons. I decided that a map to show the whole outline of the Peak District would allow new users to gain an understanding of the size and potential the Peak District has.
