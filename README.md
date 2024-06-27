@@ -62,10 +62,10 @@
 ## Skeleton Plane
 
 ### Home Page Desktop Wireframe
-![Home Page Desktop Wireframe](images/wireframes/home-page.png)
+![Home Page Desktop Wireframe](assets/images/wireframes/home-page.png)
 
 ### Home Page mobile wireframe
-![Home page mobile responsive Wireframe](images/wireframes/phone-view.png)
+![Home page mobile responsive Wireframe](assets/images/wireframes/phone-view.png)
 
 > The deisgn I have implemented in the wire frame is in aim of making the website simple, responsive and user friendly.
 > The original idea I had for the project regarding the flip cards has continued to be implemented in the final design as I believe it adds to make a more user friendly experience. 
@@ -103,38 +103,38 @@ These colors allow each part of my page to stand out and allow the user to visua
 ### index.html
 
 #### Navigation Bar
-![Navigation Bar](images/header.png)
-![Navigation Bar](images/mobile-header.png)
+![Navigation Bar](assets/images/features/header.png)
+![Navigation Bar](assets/images/features/mobile-header.png)
 
 > Navigation Bar developed using Flex and bootstrap container, navigation bar contains three links to the right of the title, the title and the walk navigation element both link back to the index.html home page. The first image is the standard desktop navigation bar. THe second image is the navigation bar viewed on a mobile device.
 
 #### Hero Section
-![Hero Section](images/hero-section.png)
+![Hero Section](assets/images/features/hero-section.png)
 
 > Image section with 3 flip cards, the front of the flip cards showcase locations in the Peak District with ratings similar to that of trump cards. The back of the flip cards show an active google maps review of the location using i-frame.
 
 #### Footer
-![Footer](images/footer.png)
+![Footer](assets/images/features/footer.png)
 
 > Bootstrap and custom style footer used to showcase a map location of the Peak District with the use of i-frame to the left side. The middle of the footer allows for the user to be taken to the sign-up page. The right side of the footer showcases media icons. I decided that a map to show the whole outline of the Peak District would allow new users to gain an understanding of the size and potential the Peak District has.
 
 ### camping.html
 
 #### Camping
-![Camping Section](images/stanton-moor.png)
+![Camping Section](assets/images/features/stanton-moor.png)
 
 > The camping section is a showcase of four different campsites that are suitable to camp in for the wlks on the index.html walk page. This allows the users to be able to find suitable camping locations if they embark on one of the suggested walks.
 
 ### form.html
 
 #### Form
-![Form Section](images/form.png)
+![Form Section](assets/images/features/form.png)
 
 > The form page is created to allow users to sign-up to the weekly newsletter and updates on the webstie for new suggested walks and camping locations. The submission of the form brings up a thankyou message as I have not created any backend for this form. Thae thankyou is to allow users to know that the form has been submitted. In the future I would like to add back end to this form with the option to also contact the site.
 >Initially, this form did not have a radio button selection to allow users to select wha tthye are most using this weksite for, this was updated to allow for a selection button to be clicked before submission of the form.
 >The sign-up form is minimilistic in its colors but does have a blue submit button whic his used to stand out to the users.
 #### Form Thankyou
-![Form Thankyou Section](images/formthankyou.png)
+![Form Thankyou Section](assets/images/features/formthankyou.png)
 
 > This is the thankyou notice to the users that sign-up.
 
