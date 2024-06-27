@@ -247,6 +247,63 @@ These colors allow each part of my page to stand out and allow the user to visua
 ![W3 form-thankyou-.html Check](assets/images/testing-scans/form-thankyou-w3-check.png)
 #### Result: No Errors, 1 warning about the section not having a heading.
 
+<a name="bugs"></a>
+
+## **Bugs**
+> Issues with picture sizing causing loading time issues (fixed, pictures compressed and converted to webp **fixed**
+
+> Problem with file paths, images were not showing whilst in the assets folder (fixed, cleared cache) **fixed**
+
+> Flip card on camping page not flipping correctly (fixed, missing a div end tag) **fixed**
+
+> Issues with image sizing on images when on mobile device **fixed**
+
+> Issues with opacity on the form page **fixed**
+
+> Issues with title colors not allowing for accessabiltiy (fixed, changed the color to alloe for easier viewing) **fixed**
+
+> Issue with whole header linking to walks page when clicked rather than just title (fixed, set the title in its own div) **fixed**
+
+<a name="deployment"></a>
+## Deployment
+
+> To deploy the project I followed these steps starting from the main project repository [here](https://github.com/Chris-moreton12/Peak-Walks.git).
+
+ 1. Clicked on `Settings` on the navigation menu in the repository
+ 2. I then selected the `Pages` menu on the side bar.
+ 3. In the first dropdown menu labeled `Source` I selected the branch of the name `main` from the dropdown.
+ 4. In the next dropdown labeled `/root` I left as the default option.
+ 5. Selected Save
+ 
+> I then received a notification from GitHub that my project is being deployed and after about 2 minute and a some page refreshes it was ready and live.
+
+<a name="credits"></a>
+## Credits
+
+### All images sourced from pexels.com and pixabay.com. Links for images included below
+
+>  Background image: https://www.pexels.com/photo/green-grass-field-and-mountains-8604334/
+
+> Flip card 1: https://pixabay.com/photos/mam-tor-famous-gate-peak-district-5394166/
+
+> Flip card 2: Picture taken by me
+
+> Flip card 3: https://www.pexels.com/photo/road-in-wild-nature-valley-6688835/
+
+> Flip card 4: Picture taken by me
+
+> Camping centre picture: https://www.pexels.com/photo burning-woods-on-fire-during-nighttime-12243893/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
