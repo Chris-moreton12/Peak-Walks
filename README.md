@@ -214,4 +214,3 @@ These colors allow each part of my page to stand out and allow the user to visua
 |Please fill in the sign-up form and submit the form| 100%  |
 
 
-
