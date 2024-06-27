@@ -180,7 +180,7 @@ These colors allow each part of my page to stand out and allow the user to visua
 
 <a name="testing"></a>
 # Testing
-> Testing on this project was mainly done manually by myself and a few friends to determine site usability, responsiveness and ensure it is intuitive to a completely new user.
+> Testing on this site was primarily complted by myself. A couple of friends and a family member chekced over the site to find any problems.
 
 ### Testing Phase
 
@@ -188,18 +188,18 @@ These colors allow each part of my page to stand out and allow the user to visua
 | Test |Outcome  |
 |--|--|
 |All links on Navigation lead to their correct pages| Pass  |
-|Contact us button leads to contact form on contact us page| Pass
+|Sign-up to newsletter links to the form page| Pass
 |Footer social links all lead to their respective social media sites |Pass|
-|Contact form submits when all criteria is filled correctly| Pass  |
+|Contact form submits when all criteria is filled correctly and leads to a thankyou page| Pass  |
 |User prevented from submitting form without correct elements| Pass|
 |Form Validation presents when incorrect input type is entered |Pass|
 
 **Testing for responsiveness**
 | Test |Outcome  |
 |--|--|
-|Home page, about, portfolio, contact us displays correctly on screens larger than 950px|Pass |
-|Home page, about, portfolio, contact us displays correctly on screens smaller than 950px |Pass  
-
+|Home page, camping page, sign-up page all display the content in a visible manner on larger screens|Pass |
+|Home page, camping page, sign-up page all display the content in a visible manner on smaller screens|Pass |
+    
 ### User testing
 
 **User testing Challenge**
@@ -212,5 +212,41 @@ These colors allow each part of my page to stand out and allow the user to visua
 |Please navigate to the twitter link|100%  |
 |Please navigate to the camping page and inform me of the rating for Mam Tor| 100%|
 |Please fill in the sign-up form and submit the form| 100%  |
+
+## Google Lighthouse Testing
+
+### index.html
+
+![Google Lighthouse index.html](assets/images/testing-scans/)
+
+### camping.html
+
+![Google Lighthouse camping.html](assets/images/testing-scans/)
+
+### form.html
+![Google Lighthouse form.html](assets/images/testing-scans/)
+
+### form-thankyou.html
+![Google Lighthouse form-thankyou.html](assets/images/testing-scans/)
+
+## HTML Validation
+
+### index.html
+![W3 index.html Check](assets/images/testing-scans/)
+#### Result: No Errors
+
+### camping.html
+![W3 camping.html Check](assets/images/testing-scans/)
+#### Result: No Errors
+
+### form.html
+![W3 form.html Check](assets/images/testing-scans/)
+#### Result: No Errors
+
+### form-thankyou.html
+![W3 form-thankyou-.html Check](assets/images/testing-scans/)
+#### Result: No Errors
+
+
 
 
