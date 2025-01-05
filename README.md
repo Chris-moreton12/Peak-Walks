@@ -30,7 +30,7 @@
 
 
 ### Purpose of Project
-> This project is being created to allow users to explore new potemtial walks they can ventur on in order to promote a more healthy lifestyle. This site has a great value to its users as it allows for the location of each walk to be accessed by clicking on the map on the flip cards. The website is easy to use and can quickly help a user find somewhere to walk and somewhere to camp.
+> This project is being created to allow users to explore new potential walks they can venture on in order to promote a more healthy lifestyle. This site has a great value to its users as it allows for the location of each walk to be accessed by clicking on the map on the flip cards. The website is easy to use and can quickly help a user find somewhere to walk and somewhere to camp.
 
  ### Pre-project Planning
 > Before starting this project, I had my mind set on the idea of creating a responsive website revolving aorund the idea of walking and camping as this is a large passion of mine. When making my decision for this project, I completed some research on the current user market for websites involving top picks for walks and came up with ideas to make the website more user friendly and interative.
