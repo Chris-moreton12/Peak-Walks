@@ -28,8 +28,12 @@
 
  <a name="ux"></a>
 
+
+### Purpose of Project
+> This project is being created to allow users to explore new potemtial walks they can ventur on in order to promote a more healthy lifestyle. This site has a great value to its users as it allows for the location of each walk to be accessed by clicking on the map on the flip cards. The website is easy to use and can quickly help a user find somewhere to walk and somewhere to camp.
+
  ### Pre-project Planning
-> Before starting this project, I had my mind set on the idea of creating a responsive website revolving aorund the idea of walking and camping as this is a large passion of mine. When making my decision for this project, I completed some research on the current user market for websites involving top pics for walks and came up with ideas to make the website more user friendly and interative.
+> Before starting this project, I had my mind set on the idea of creating a responsive website revolving aorund the idea of walking and camping as this is a large passion of mine. When making my decision for this project, I completed some research on the current user market for websites involving top picks for walks and came up with ideas to make the website more user friendly and interative.
 
 # UX design
 
@@ -41,23 +45,23 @@
 
 ### User
 > As a user I would like quick suggestions on walks in the Peak District with timings and difficulty  
-> As a user I would like to be able to sign up to regular updates on new walaks and camping locations 
-> As a user I would like to be able to fins the best possible destinatios and walks without having to search the internet for hours.
+> As a user I would like to be able to sign up to regular updates on new walks and camping locations 
+> As a user I would like to be able to find the best possible destinations and walks without having to search the internet for hours.
 
 ### Webite Owner
 > As a website owner, I would like my viewers to be able to use my site to find the best walks and camping suggestions to aid them in their choice.
-> As a website owner, I would like my users to be able to use my websit with ease and understand each section of content.
+> As a website owner, I would like my users to be able to use my website with ease and understand each section of content.
 
 ## Scope Plane
 > The website should have a Navigation menu that is consistent across all pages and devices.  
 > The website should have a welcome message for the user explaining to them who we are and what we do.  
-> The website should display walks and camping locations so the user can make quick decisions iin their next walk choice.  
-> The website should allow the user ease of accsee and understanding.
+> The website should display walks and camping locations so the user can make quick decisions in their next walk choice.  
+> The website should allow the user ease of access and understanding.
 > The website should allow for a way to keep up to date with regular changes and updates.
 > The website should include a loation map so the user can visualise the location. 
 
 ## Structure Plane
-> To achieve the above goals, the created website should include a navigation bar, this will include 3 navigation links (home, camping and signup), the signup page will take you to a thankyou page. The webstie incliudes a header, section and footer in which the map and social media links are contained.
+> To achieve the above goals, the created website should include a navigation bar, this will include 3 navigation links (home, camping and signup), the signup page will take you to a thankyou page. The webstie includes a header, section and footer in which the map and social media links are contained.
 
 **Home Page**
 > The home page includes a navigation bar with links to each page.
@@ -65,10 +69,10 @@
 > Footer showcasing a map, signup link and social media links.
 
 **Camping**
-> The camping page includes a centre picture with 4 flip cards which showcase the bes locations to camp for th chosen walks on the home page.   
+> The camping page includes a centre picture with 4 flip cards which showcase the best locations to camp for the chosen walks on the home page.   
 
 **Sign-up**
-> The sign-up page cosists of a form to fill out which includes; first name, last name, email address and radio button for preference choice. This form will generate a thankyou message once submitted.
+> The sign-up page consists of a form to fill out which includes; first name, last name, email address and radio button for preference choice. This form will generate a thankyou message once submitted.
 
 ## Skeleton Plane
 
@@ -78,9 +82,9 @@
 ### Home Page mobile wireframe
 ![Home page mobile responsive Wireframe](assets/images/wireframes/phone-view.png)
 
-> The deisgn I have implemented in the wire frame is in aim of making the website simple, responsive and user friendly.
+> The design I have implemented in the wire frame is in aim of making the website simple, responsive and user friendly.
 > The original idea I had for the project regarding the flip cards has continued to be implemented in the final design as I believe it adds to make a more user friendly experience. 
->  THere will be colours implemented in my final design. The title will be coloured and will chsnge colour to indicate the cursor, along with the navigation items. The flip cards will flip to show more infomrmation regaring the walk on the back. The camping page will showcase a similar design to the home page in the use of flip cards.
+>  There will be colours implemented in my final design. The title will be coloured and will change colour to indicate the cursor, along with the navigation items. The flip cards will flip to show more information regarding the walk on the back. The camping page will showcase a similar design to the home page in the use of flip cards.
 
 ## Surface Plane
 
@@ -96,7 +100,7 @@
  - #333-black
  - ##007bff-blue
 >These colors allow each part of my page to stand out and allow the user to visualise a different color when hovring over a clickable item.
->The images within this project allow for a variety of diffetent colors which alows them to stand out from the page.
+>The images within this project allow for a variety of diffetent colors which allows them to stand out from the page.
 >During the building of this project, I initially set the opacitiy of the background color too dark which did not allow for much color to be seen. This was edited to allow more color to come through.
 
 ### Typography - 
@@ -122,19 +126,19 @@
 #### Background Section
 ![Background Section](assets/images/features/background-section.png)
 
-> Image section with 3 flip cards, the front of the flip cards showcase locations in the Peak District with ratings similar to that of trump cards. The back of the flip cards show an active google maps view of the location using i-frame.
+> Image section with 3 flip cards, the front of the flip cards showcase locations in the Peak District with ratings similar to that of trump cards. The back of the flip cards show an active google maps view of the location using i-frame. This page allows the user to quickly find a new walk to venture on, it allows for the location to be found with ease and potential places to camp. It allows users to find the best possible destination without having to search the internet for hours.
 
 #### Footer
 ![Footer](assets/images/features/footer.png)
 
-> Bootstrap and custom style footer used to showcase a map location of the Peak District with the use of i-frame to the left side. The middle of the footer allows for the user to be taken to the sign-up page. The right side of the footer showcases media icons. I decided that a map to show the whole outline of the Peak District would allow new users to gain an understanding of the size and potential the Peak District has.
+> Bootstrap and custom style footer used to showcase a map location of the Peak District with the use of i-frame to the left side. The middle of the footer allows for the user to be taken to the sign-up page. The right side of the footer showcases media icons. I decided that a map to show the whole outline of the Peak District would allow new users to gain an understanding of the size and potential the Peak District has. This section allows for users to view the whole of the peak district and click on social media links to follow the site.
 
 ### camping.html
 
 #### Camping
 ![Camping Section](assets/images/features/stanton-moor.png)
 
-> The camping section is a showcase of four different campsites that are suitable to camp in for the walks on the index.html walk page. This allows the users to be able to find suitable camping locations if they embark on one of the suggested walks.
+> The camping section is a showcase of four different campsites that are suitable to camp in for the walks on the index.html walk page. This allows the users to be able to find suitable camping locations if they embark on one of the suggested walks. This page allows users to to be able to find suitable camping locations without having to search the internet, this can be helpful if a user needs to find a camping location last minute.
 
 ### form.html
 
